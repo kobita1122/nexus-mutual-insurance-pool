@@ -1,0 +1,10 @@
+{
+  "name": "nexus-style-insurance",
+  "version": "1.0.0",
+  "description": "On-chain risk sharing and claims management",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.19.0",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
